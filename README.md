@@ -1,7 +1,7 @@
-# ПК Менеджер - навык для Алисы
+# PC Assistant - навык для Алисы
 
 ### Позволяет управлять компьютером с помощью голосового помощника Яндекса Алисы 
 
-# PC Manager - skill for Yandex Alice
+# PC Assistant - skill for Yandex Alice
 
 ### Allows you to control your computer using the Yandex voice assistant Alice
