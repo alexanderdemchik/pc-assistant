@@ -1,8 +1,8 @@
 [submodule "pc-manager-server"]
-	path = pc-manager-server
-	url = https://github.com/alexanderdemchik/pc-manager-server.git
+	path = pc-assistant-server
+	url = https://github.com/alexanderdemchik/pc-assistant-server.git
 	branch = master
 [submodule "pc-manager-desktop"]
-	path = pc-manager-desktop
-	url = https://github.com/alexanderdemchik/pc-manager-desktop.git
+	path = pc-assistant-desktop
+	url = https://github.com/alexanderdemchik/pc-assistant-desktop.git
 	branch = master
